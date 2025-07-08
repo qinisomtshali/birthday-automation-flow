@@ -79,9 +79,11 @@ This solution boosts morale, improves team culture, and saves time — all while
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-> Add screenshots of the SharePoint list, Teams message, or flow design here.
+<p align="center">
+  <img src="images/birthday.jpg" alt="Birthday Flow Screenshot" width="800" />
+</p>
 
 ---
 
