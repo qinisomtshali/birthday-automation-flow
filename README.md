@@ -82,7 +82,7 @@ This solution boosts morale, improves team culture, and saves time — all while
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/birthday.jpg" alt="Birthday Flow Screenshot" width="800" />
+  <img src="images/birthdaywishemail.png" alt="Birthday Flow Screenshot" width="800" />
 </p>
 
 ---
